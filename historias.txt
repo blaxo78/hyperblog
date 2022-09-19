@@ -1,1 +1,5 @@
-git add historias.txt
+esta es la historia de Bladimir
+
+tiene 44 años y nacio en colombia
+
+hoy hablaremos de su historia
